@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "titulo": "La divina comedia",
+        "autor": "Dante Alighieri",
+        "categoria": "poema epico",
+        "precio": 1200000,
+        "unidades": 41,
+        "vendidos": 0
+    },
+    {
+        "id": 2,
+        "titulo": "La odisea",
+        "autor": "Homero",
+        "categoria": "epopeya",
+        "precio": 100000,
+        "unidades": 23,
+        "vendidos": 0
+    },
+    {
+        "id": 3,
+        "titulo": "Viaje al oeste",
+        "categoria": "novela",
+        "precio": 150000,
+        "unidades": 10,
+        "vendidos": 0
+    },
+    {
+        "id": 4,
+        "titulo": "Sobre verdad y mentira en sentido extramoral",
+        "categoria": "Filosofico",
+        "precio": 60000,
+        "unidades": 33,
+        "vendidos": 0
+    },
+    {
+        "id": 5,
+        "titulo": "cronica de una muerte anunciada",
+        "categoria": "novela",
+        "precio": 120000,
+        "unidades": 45,
+        "vendidos": 0
+    }
+]
